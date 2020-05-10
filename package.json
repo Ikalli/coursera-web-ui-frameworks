@@ -1,0 +1,19 @@
+{
+  "name": "coursera-web-ui-frameworks",
+  "version": "1.0.0",
+  "description": "npm init",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ekalii/coursera-web-ui-frameworks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ekalii/coursera-web-ui-frameworks/issues"
+  },
+  "homepage": "https://github.com/Ekalii/coursera-web-ui-frameworks#readme"
+}
