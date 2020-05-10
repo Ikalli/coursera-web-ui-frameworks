@@ -1,19 +1,16 @@
 {
-  "name": "coursera-web-ui-frameworks",
+  "name": "confusion",
   "version": "1.0.0",
-  "description": "npm init",
+  "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ekalii/coursera-web-ui-frameworks.git"
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Ekalii/coursera-web-ui-frameworks/issues"
-  },
-  "homepage": "https://github.com/Ekalii/coursera-web-ui-frameworks#readme"
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
 }
